@@ -66,4 +66,3 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/sangethmathewjohn?tab=followers"><img src="https://img.shields.io/github/followers/sangethmathewjohn?label=Followers&style=social" alt="GitHub Badge"></a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sangethmathewjohn&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/sangethmathewjohn/github-readme-activity-graph)
