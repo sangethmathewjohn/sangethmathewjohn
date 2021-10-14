@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href ="https://www.docker.com" target="_blank"><img src ="https://img.icons8.com/color/48/000000/docker"></a>
     <a href ="https://www.linux.org" target="_blank"><img src ="https://img.icons8.com/color/48/000000/linux"></a>
-    <a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud"></a>
+    <a href="https://cloud.google.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud"></a>
+    <a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/color/48/000000/arduino"></a>
   
 </p>
 
