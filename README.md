@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/nullpwn/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alwin Paul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nullpwn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sangeeth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sangethmathewjohn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
