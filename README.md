@@ -65,3 +65,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://komarev.com/ghpvc/?username=sangethmathewjohn&color=blueviolet">
 </a>
 <a href="https://github.com/sangethmathewjohn?tab=followers"><img src="https://img.shields.io/github/followers/sangethmathewjohn?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangethmathewjohn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
