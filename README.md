@@ -7,7 +7,7 @@
 - 👀 I’m interested in coding, diy, cyber security
 - 🌱 I’m currently learning electrical engineering, network engineering and cloud
 - 💞️ I’m looking to collaborate on anything that I'm skilled in.
-- 📫 My Portfolio (https://sangethmathewjohn.github.io/Profile)
+- 📫  **[My Portfolio](https://sangethmathewjohn.github.io/Profile)**
 
 <!---
 sangethmathewjohn/sangethmathewjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
