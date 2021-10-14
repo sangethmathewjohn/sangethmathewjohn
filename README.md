@@ -70,3 +70,4 @@ You can click the Preview link to take a look at your changes.
 <img src=“https://github.com/sangethmathewjohn/sangethmathewjohn/blob/main/sangethmathewjohn-2021.stl”/>
 
 <canvas id="canvas3d" class="fixed z-0 w-full h-full outline-none cursor-move t-0 l-0" data-v-a796c2ea="" width="866" height="635" touch-action="none" style="touch-action: none; opacity: 1;" tabindex="1"></canvas>
+<img aria-hidden="true" src="/_nuxt/img/bg_glow.918426c.svg" alt="" role="presentation" class="z-0 pointer-events-none glow" data-v-40b60d66="">
