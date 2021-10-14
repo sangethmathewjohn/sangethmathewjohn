@@ -67,11 +67,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/sangethmathewjohn?tab=followers"><img src="https://img.shields.io/github/followers/sangethmathewjohn?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![skyline](https://github.com/sangethmathewjohn/sangethmathewjohn/blob/main/sangethmathewjohn-2021.stl)
-<img
-src=“https://github.com/sangethmathewjohn/sangethmathewjohn/blob/main/sangethmathewjohn-2021.stl”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src=“https://github.com/sangethmathewjohn/sangethmathewjohn/blob/main/sangethmathewjohn-2021.stl”/>
 
 
