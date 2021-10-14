@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/nullpwn/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nullpwn&color=blueviolet">
+<a href="https://github.com/sangethmathewjohn/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sangethmathewjohn&color=blueviolet">
 </a>
-<a href="https://github.com/nullpwn?tab=followers"><img src="https://img.shields.io/github/followers/nullpwn?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sangethmathewjohn?tab=followers"><img src="https://img.shields.io/github/followers/sangethmathewjohn?label=Followers&style=social" alt="GitHub Badge"></a>
