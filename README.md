@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
   <br/>
     <a href="https://github.com/sangethmathewjohn/github-readme-stats"><img height="180em" alt="Sangeeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sangethmathewjohn&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sangethmathewjohn/github-readme-stats"><img alt="Sangeeth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangethmathewjohn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sangethmathewjohn/github-readme-stats"><img height="180em" alt="Sangeeth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangethmathewjohn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
