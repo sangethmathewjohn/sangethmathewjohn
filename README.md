@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://cloud.google.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud"></a>
     <a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/color/48/000000/arduino"></a>
     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/router"></a>
+    <a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs"></a>
   
 </p>
 
