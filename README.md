@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sangeeth</h1>
 
-- 👀 I’m interested in coding, diy, cyber security
-- 🌱 I’m currently learning electrical engineering, network engineering and cloud
+- 👀 Interested in coding, diy, cyber security
+- 🌱 Key learner electrical engineering, network engineering, cloud ,embedded system etc.
 - 💞️ I’m looking to collaborate on anything that I'm skilled in.
 - 👨‍💻 **[My Portfolio](https://sangethmathewjohn.github.io/Profile)**
 - 📫 Mail me **sangeethmathewjohn@gmail.com**
