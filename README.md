@@ -6,7 +6,7 @@
 
 - 👀 Interested in coding, diy, cyber security
 - 🌱 Key learner electrical engineering, network engineering, cloud ,embedded system etc.
-- 💞️ I’m looking to collaborate on anything that I'm skilled in.
+- 💞️ I’m looking to collaborate on Projects that I'm interested.
 - 👨‍💻 **[My Portfolio](https://sangethmathewjohn.github.io/Profile)**
 - 📫 Mail me **sangeethmathewjohn@gmail.com**
 
