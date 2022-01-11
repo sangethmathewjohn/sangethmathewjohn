@@ -2,7 +2,7 @@
 <a href="#"><img src="https://github.com/sangethmathewjohn/sangethmathewjohn/blob/main/image_processing20210510-2700-1oal4i5.gif" height="280px"/></a>
 </p>
 
-<h1 align="center">Hello World! <br> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Sangeeth</h1>
+<h1 align="center">Hello World! <br> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Sangeeth</h1>
 
 - 👀 Interested in coding, diy, cyber security
 - 🌱 Key learner electrical engineering, network engineering, cloud ,embedded system etc.
