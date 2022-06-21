@@ -2,7 +2,7 @@
 <a href="#"><img src="https://github.com/sangethmathewjohn/sangethmathewjohn/blob/main/image_processing20210510-2700-1oal4i5.gif" height="280px"/></a>
 </p>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px"> I'm Sangeeth</h1>
+<h1 align="center"> I'm Sangeeth</h1>
 
 - 👀 Intrested in coding, diy, cyber security and love to study new technologies.
 - 🌱 Learning electrical engineering, network engineering, cloud ,embedded system etc.
