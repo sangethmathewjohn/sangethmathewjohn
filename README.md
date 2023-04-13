@@ -5,7 +5,7 @@
 <h1 align="center"> I'm Sangeeth</h1>
 
 - 👀 Intrested in coding, diy, cyber security and love to study new technologies.
-- 🌱 Learning electrical engineering, network engineering, cloud ,embedded system etc.
+- 🌱 Working as Data Scientist currently
 - 💞️ I’m looking to collaborate on Projects that I'm interested.
 - 👨‍💻 **[My Portfolio](https://sangethmathewjohn.github.io/Profile)**
 - 📫 Mail me **sangeethmathewjohn@gmail.com**
