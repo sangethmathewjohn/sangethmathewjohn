@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/sangethmathewjohn/github-readme-stats"><img height="180em" alt="Sangeeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sangethmathewjohn&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
-
+ -->
 ## Connect with me:
 <p align="left">
 
